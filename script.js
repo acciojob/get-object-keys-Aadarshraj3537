@@ -18,5 +18,3 @@ const student2 = {
   city: "New York"
 };
 
-console.log(getKeys(student2)); // Output: ["name", "age", "city"]
-
