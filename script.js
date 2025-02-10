@@ -9,8 +9,6 @@ function getKeys(obj) {
 }
 
 // Testing the function
-console.log(getKeys(student)); // Expected Output: ["name"]
-
-// Additional test 
+console.log(getKeys(student)); // Output: ["name"]
 
 
