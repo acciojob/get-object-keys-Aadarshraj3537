@@ -3,12 +3,6 @@ const student = {
   name: "John",
 };
 
-// Function to get all keys from the object
-function getKeys(obj) {
-  return Object.keys(obj);
+object.prototype.getkey = function
+   return object.key(this);
 }
-
-// Testing the function
-console.log(getKeys(student)); // Output: ["name"]
-
-
